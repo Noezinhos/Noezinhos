@@ -20,6 +20,9 @@ A script for dropping event crates with configurable contents and locations.
 ### 🖥️ AltV Development
 Ongoing projects for the AltV platform, including server-client communications in C# and JavaScript.
 
+### 🎮 FiveM Development
+Various backend scripts and tools for enhancing the FiveM server experience.
+
 ## 📚 Documentation
 
 Find detailed documentation for each project in the `docs` folder:
