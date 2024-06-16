@@ -17,13 +17,6 @@ Ongoing projects for the AltV platform, including server-client communications i
 ### 🎮 FiveM Development
 Various backend scripts and tools for enhancing the FiveM server experience.
 
-## 📚 Documentation
-
-Find detailed documentation for each project in the `docs` folder:
-
-- [Setup Instructions](docs/setup.md)
-- [API Reference](docs/api.md)
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Feel free to fork this repository, submit issues, and create pull requests.
