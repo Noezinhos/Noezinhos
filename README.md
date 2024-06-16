@@ -11,12 +11,6 @@ Hello! I'm Marcello Martins, known in the FiveM community as Noezinhos. I'm curr
 
 ## 🌟 Featured Projects
 
-### 🚨 VRP Support System
-An advanced support system for VRP where support staff can handle in-game requests efficiently.
-
-### 📦 Event Crate Dropper
-A script for dropping event crates with configurable contents and locations.
-
 ### 🖥️ AltV Development
 Ongoing projects for the AltV platform, including server-client communications in C# and JavaScript.
 
