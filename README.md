@@ -1,4 +1,4 @@
-# 🚀 Noezinhos' FiveM Backend Development Repository 🚀
+# 🚀 Noezinhos Backend Development Repository 🚀
 
 Welcome to the official GitHub repository of Noezinhos, a passionate backend developer for FiveM. Here you'll find the latest projects, scripts, and tools designed to enhance your FiveM server experience.
 
